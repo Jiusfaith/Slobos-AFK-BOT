@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Creative mind's God ",
+    "username": "Creative",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "creativemindssmps.aternos.me",
     "port": 63242,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
